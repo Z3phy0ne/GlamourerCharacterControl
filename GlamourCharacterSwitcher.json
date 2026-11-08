@@ -1,0 +1,12 @@
+{
+  "Author": "Zephy",
+  "Name": "Glamourer Character Control",
+  "InternalName": "GlamourCharacterSwitcher",
+  "AssemblyVersion": "1.3.2.0",
+  "Description": "Independent folders for characters, height and physics.\nSwitch profiles with /gcc or buttons.\nOptional Penumbra redraw in Settings.",
+  "Punchline": "Control Glamourer profiles in independent folders with /gcc.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "Tags": ["glamour", "automation"],
+  "LoadPriority": 0
+}
