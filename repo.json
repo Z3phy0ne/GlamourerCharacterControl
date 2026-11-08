@@ -3,7 +3,7 @@
     "Author": "Zephy",
     "Name": "Glamourer Character Control",
     "InternalName": "GlamourCharacterSwitcher",
-    "AssemblyVersion": "1.4.0.0",
+    "AssemblyVersion": "1.4.1.0",
     "Description": "Independent folders for characters, height and physics.\nSwitch profiles with /gcc or buttons.\nOptional Penumbra redraw in Settings.",
     "Punchline": "Control Glamourer profiles in independent folders with /gcc.",
     "ApplicableVersion": "any",
@@ -19,6 +19,6 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Z3phy0ne/GlamourerCharacterControl/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Z3phy0ne/GlamourerCharacterControl/main/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Z3phy0ne/GlamourerCharacterControl/main/icon.png",
-    "LastUpdate": 1794145812
+    "LastUpdate": 1794150189
   }
 ]
